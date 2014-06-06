@@ -1,0 +1,2 @@
+class ByTheRib < Item
+end

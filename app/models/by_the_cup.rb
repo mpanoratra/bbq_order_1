@@ -1,0 +1,2 @@
+class ByTheCup < Item
+end
